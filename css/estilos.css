@@ -21,7 +21,7 @@ html{
 .contenedor-header img{
     height: 50px;
     width: 50px;
-    border-radius: 40%;
+    border-radius: 50%;
 }
 .contenedor-header header{
     max-width: 100%;
