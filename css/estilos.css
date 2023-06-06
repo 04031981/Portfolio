@@ -18,6 +18,11 @@ html{
     left: 0;
     z-index: 99;
 }
+.contenedor-header img{
+    height: 60px;
+    width: 60px;
+    border-radius: 40%;
+}
 .contenedor-header header{
     max-width: 1100px;
     margin: auto;
@@ -58,7 +63,7 @@ html{
 /* SECCION I N I C I O */
 .inicio{
     background: linear-gradient(to top, rgba(13, 13, 14, 0.945), rgba(0, 0, 0, 0.822)),
-    url(img/fondo.jpg);
+    url(img/2.webp);
     background-size: cover;
     height: 120vh;
     color: #fff;
@@ -68,16 +73,16 @@ html{
 .inicio .contenido-banner{
     padding: 50px;
     background-color: #0f0f0f;
-    max-width: 300px;
+    max-width: 350px;
     margin: auto;
     text-align: center;
     border-radius: 40px;
 }
 .inicio .contenido-banner img{
-    margin-top: 40px;
-    border: 10px solid #80127B;
+    margin-top: 50px;
+    border: 2px solid #80127B;
     display: block;
-    width: 80%;
+    width: 65%;
     margin: auto;
     border-radius: 100%;
 }
